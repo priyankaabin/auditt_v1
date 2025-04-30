@@ -111,7 +111,7 @@ export default function SignUp() {
           <>
             <div className="flex flex-col items-center mb-6">
               <img 
-              src="/Images/Family_Creatives_Golden_Logo__Transparent-Final.png"
+              src="/Images/Auditt_logo.jpeg"
               
                 alt="Family Creatives Logo" 
                 className="w-24 h-auto mb-4"

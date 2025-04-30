@@ -37,7 +37,7 @@ export default function SignIn() {
       <div className="bg-white p-8 rounded-lg shadow-md w-full max-w-md">
         <div className="flex flex-col items-center mb-6">
           <img 
-            src="/images/Family_Creatives_Golden_Logo__Transparent-Final.png" 
+            src="/images/auditt_logo.jpeg" 
             alt="Family Creatives Logo" 
             className="w-24 h-auto mb-4"
           />

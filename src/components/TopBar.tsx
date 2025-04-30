@@ -3365,7 +3365,7 @@ export const TopBar: React.FC<TopBarProps> = ({ onSearch, selectedCategoryId }) 
               data-tooltip-id="home-logo-tooltip"
               data-tooltip-content="Home"
             >
-              Family Creatives
+              Auditt
             </Link>
           </div>
 
